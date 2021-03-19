@@ -1,2 +1,2 @@
-# typora-img
-the repository for images in typora 
+# upImages
+the repository for upload images
