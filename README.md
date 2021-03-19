@@ -1,2 +1,2 @@
 # upImages
-the repository for upload images
+the repository for uploading images
